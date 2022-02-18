@@ -7,3 +7,4 @@ pro:
 
 contra:
 - it may take some time ...
+- container size: 2,1 GB on RPi4, 2,3 GB on ArchLinux 
