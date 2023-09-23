@@ -1,6 +1,6 @@
 FROM rust:buster
 
-ENV VERSION=0.30.0
+ENV VERSION=0.33.0
 
 RUN apt-get update -y
 RUN apt-get install firefox-esr wget unzip -y
